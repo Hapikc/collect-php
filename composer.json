@@ -1,6 +1,6 @@
 {
     "name": "hapikc/collect-php",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
