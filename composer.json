@@ -1,6 +1,6 @@
 {
     "name": "hapikc/collect_practice",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
